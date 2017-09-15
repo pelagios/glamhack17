@@ -19,10 +19,10 @@ JSON object contains:
 
 ## Files
 
-* For those interested in building a map-based visualization, the recommended dataset is:    [data/coins-with-coordinates.json.txt.zip](https://github.com/rsimon/mis-lva/blob/master/data/coins-with-coordinates.json.txt.zip?raw=true).
+* For those interested in building a map-based visualization, the recommended dataset is:    [data/coins-with-coordinates.json.txt.zip](https://github.com/pelagios/glamhack17/blob/master/data/coins-with-coordinates.json.txt.zip?raw=true).
 
 * Those interested in building (map and) timeline-based visualizations should check out:
-  [data/coins-with-time.json.txt](https://github.com/rsimon/mis-lva/blob/master/data/coins-with-time.json.txt.zip?raw=true)
+  [data/coins-with-time.json.txt](https://github.com/pelagios/glamhack17/blob/master/data/coins-with-time.json.txt.zip?raw=true)
 
 Both datasets are identical, except that the "timeline" dataset excludes all records that have no
 date information. The "map" dataset contains 74.142 records with a total of 118.420 image URLs. The
